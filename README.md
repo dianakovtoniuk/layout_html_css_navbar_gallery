@@ -1,5 +1,7 @@
 Responsive Navbar and Photo Gallery
 
+Running: https://dianakovtoniuk.github.io/layout_html_css_navbar_gallery/
+
 A mobile-first layout exercise built with plain HTML and CSS. Includes a responsive navigation bar and a responsive photo gallery with a featured (larger) image.
 
 Features
